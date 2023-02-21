@@ -1,0 +1,4 @@
+you need to use node modules to can run the code 
+in the terminal run this command `npm install react-scripts`
+then write `npm start`
+this wil open the app in the browser
